@@ -1,0 +1,14 @@
+# Go
+/bin/
+/vendor/
+*.exe
+*.out
+
+# Env
+.env
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
